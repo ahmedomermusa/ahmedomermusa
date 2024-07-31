@@ -9,15 +9,15 @@
 
 - 🤝 I’m looking for help with [Adding statistical test code to statsmodels](https://github.com/ahmedomermusa/mawi)
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/d/1R2bacvF9cVQJGaHs_MtD541NRnRaOp9t/p/19jE6Ef1DqVYnwvVI4NrZZAQ_1S_htaQB/edit](https://sites.google.com/d/1R2bacvF9cVQJGaHs_MtD541NRnRaOp9t/p/19jE6Ef1DqVYnwvVI4NrZZAQ_1S_htaQB/edit)
+- 👨‍💻 All of my projects are available at [Website](https://sites.google.com/view/ahmedmusa/home)
 
-- 📝 I regularly write articles on [https://medium.com/@ahmedomusa](https://medium.com/@ahmedomusa)
+- 📝 I regularly write articles on [Medium](https://medium.com/@ahmedomusa)
 
 - 💬 Ask me about **causality, python, algorithms**
 
 - 📫 How to reach me **ahmed.omer.musa@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12WHOMRDZLz-MFK65Bjy0dE8oLEo5nEK9/view?usp=sharing](https://drive.google.com/file/d/12WHOMRDZLz-MFK65Bjy0dE8oLEo5nEK9/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/12WHOMRDZLz-MFK65Bjy0dE8oLEo5nEK9/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
